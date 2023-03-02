@@ -1,5 +1,5 @@
 # convertUnits
-converter
+
 
 ## Metric-Imperial Converter
 
@@ -14,3 +14,23 @@ The app simply , does the following :
 * convert  lbs to kg.
 * convert  kg to lb
 
+
+The web App consist of  nodejs(backend) html(frond-end), in addition runnin tests using mohca framework !
+
+testCases:
+A- unitTest
+* Whole number input
+* Decimal Input -> 1/2km
+* Fractional Input ->5.5/2mi
+* Fractional Input w/ Decimal
+* Invalid Input (double fraction
+* No Numerical Input ->3/2/3
+* No Numerical Input
+* Function convertHandler.getUnit(input)
+* For Each Valid Unit Inputs
+* Unknown Unit Input
+* convert from units to its appropriate unit
+*
+
+
+B- using Chai framework test route 
