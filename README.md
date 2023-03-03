@@ -14,8 +14,11 @@ The app simply , does the following :
 * convert  lbs to kg.
 * convert  kg to lb
 
+### run validation to check units or input written in correct form
 
 The web App consist of  nodejs(backend) html(frond-end), in addition runnin tests using mohca framework !
+
+## add chatBot to help the vistor understanding the math behind it 
 
 testCases:
 A- unitTest
