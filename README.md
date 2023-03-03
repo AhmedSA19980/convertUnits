@@ -3,8 +3,8 @@
 
 ## Metric-Imperial Converter
 
+build  module to convert units ! The app simply , does the following :
 
-The app simply , does the following :
 
 
 * convert  gal to L.
@@ -14,11 +14,11 @@ The app simply , does the following :
 * convert  lbs to kg.
 * convert  kg to lb
 
-### run validation to check units or input written in correct form
+### run validation to check units or input written in correct formula
+##  chatBot to help the vistor understanding the math behind it 
 
 The web App consist of  nodejs(backend) html(frond-end), in addition runnin tests using mohca framework !
 
-## add chatBot to help the vistor understanding the math behind it 
 
 testCases:
 A- unitTest
